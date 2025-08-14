@@ -5,6 +5,17 @@
 
 <p align="left">My name is Paula and I'm engineer, from Poland.</p>
 
+
+### ⚙️ GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/paula048">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paula048&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paula048&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
 ###
 
 <h2 align="left">About me</h2>
