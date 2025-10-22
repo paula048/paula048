@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ It started since HTML ...<br>📚 I'm currently learning Wordpress.org and basic about Docker<br>🎯 Golas: learn Kubernetes<br>🥈Take the 2nd place in Hackathon "Hackathon  Tarnów 2022"<br>🎲 Fun fact: What website would a woman hack? Rossmann – isn't that obvious?</p>
+<p align="left">✨ It started since HTML ...<br>📚 I'm currently working on Node.js and React and learn basic WordPress<br>🎯 Golas: get certified Node.js and MongoDB<br>🥈Take the 2nd place in Hackathon "Hackathon  Tarnów 2022"<br>🎲 Fun fact: What website would a woman hack? Rossmann – isn't that obvious?</p>
 
 ###
 
